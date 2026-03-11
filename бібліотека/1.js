@@ -41,11 +41,12 @@
 //  користувача. Встановіть час затримки в мілісекундах, наприклад 50 мс,
 //  і передайте функцію, яка буде виконуватися при русі миші.
 // const nameUserRef = document.querySelector('.name') 
-const boxRef = document.querySelector('.box')
+// const boxRef = document.querySelector('.box')
 
-document.addEventListener('mousemove', _.throttle((e) => {
-    boxRef.style.left = e.clientX
-    boxRef.style.top = e.clientY
+// document.addEventListener('mousemove', _.throttle((e) => {
+//     boxRef.style.left = e.clientX
+//     boxRef.style.top = e.clientY
 
-},50))
+// },50))
+
 
