@@ -53,3 +53,21 @@ li{
     background-color: red;
     position: absolute;
 }
+
+
+section{
+    text-align: center;
+}
+
+.one{
+    padding: 400px 0;
+    background-color: red;
+}
+.tho{
+    padding: 400px 0;
+    background-color: blue;
+}
+.three{
+    padding: 400px 0;
+    background-color: blueviolet;
+}
